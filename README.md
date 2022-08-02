@@ -26,3 +26,32 @@
 				* Positioning
 				* Margins and Padding
 				* Z-Index
+ * JavaScript
+ 	* Basics
+		* Hello world program
+		* Variable decleration using var, let, & const
+		* null vs undefined
+		* booleans and comparison operator
+		* if else statement
+		* Nested if else
+		* switch statement
+		* while loop
+		* for loop
+		* break and continue keyword
+	* Objects in JavaScript
+		* Intro to objects
+		* Objects inside Array
+		* Object Destructuring
+	* Functions in JavaScript
+		* Function declaration
+		* Default Parameters
+		* Parameter Destructuring
+		* Function callbacks
+	* Arrays in JavaScript
+		* Intro to arrays
+		* Primitive vs reference data types
+		* Foreach method
+		* Map method
+		* Filter
+		* Reduce
+		* Find
